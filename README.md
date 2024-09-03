@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently pursuing my final year of B.Tech in 
 - **Detecting Frauds in Financial Transactions using AI/ML**: Building a sophisticated fraud detection system with Python 🐍, leveraging autoencoders for feature extraction and Recurrent Convolutional Neural Networks (R-CNN) for sequential analysis. This system analyzes transaction patterns to detect anomalies in real-time, enhancing financial security.
 - **Blockchain-based Student Certification Verification**: Developing a decentralized platform utilizing blockchain technology 🔗 for secure and tamper-proof verification of academic records. This solution ensures that student certifications are authentic and verifiable.
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🛠️ My Tech Toolbox
 - **Languages**:
@@ -45,7 +45,8 @@ Welcome to my GitHub profile! I'm currently pursuing my final year of B.Tech in 
 - **AI/ML in Geodata Exploration**: Applying machine learning algorithms to geospatial data to refine mineral exploration techniques and improve prediction accuracy 🌍.
 
 ### 💡 Fun Fact
-  Did you know? The first webcam was created to monitor a coffee pot at Cambridge University ☕—talk about Java surveillance!
+  Did you know? 
+  The first webcam was created to monitor a coffee pot at Cambridge University ☕—talk about Java surveillance!
 
 
 ### 🌍 Let's Connect!
