@@ -1,3 +1,5 @@
+![logo](Screenshot 2024-09-03 224249.png)
+
 ## 👋 Hello, I'm Neel Kapadia!
 
 ### 🚀 AI Enthusiast | 🧠 Data Science Explorer | 💻 Open-Source Contributor
