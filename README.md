@@ -1,4 +1,4 @@
-![logo](Screenshot 2024-09-03 224249.png)
+![logo](https://github.com/N33L22/N33L22/blob/079ec47672800b62973eb1516a936a15633e42f7/Screenshot%202024-09-03%20224249.png)
 
 ## 👋 Hello, I'm Neel Kapadia!
 
