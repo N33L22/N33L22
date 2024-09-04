@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm currently pursuing my final year of B.Tech in 
 
 
 ### 📈 Recent Work
-- **PDF Query Assistant**: An intelligent tool that lets users upload PDFs and extract information directly from the content using advanced NLP techniques 🤔. This assistant enhances the ease of information retrieval and contextual understanding.
+- **PDF Query Assistant (Question & Answer AI)**: An intelligent tool that lets users upload PDFs and extract information directly from the content using advanced NLP techniques 🤔. This assistant enhances the ease of information retrieval and contextual understanding.
 - **Prediction Analysis with Preprocessing (Multi-Format-Table-Extraction-and-CSV-Conversion)**: A comprehensive pipeline that converts heterogeneous file formats (Word, PDF, HTML, XML, and website links) into Excel 🗂️. This facilitates accurate predictions and insightful visualizations through structured data conversion and preprocessing.
 
 ### 🌱 Currently Learning
